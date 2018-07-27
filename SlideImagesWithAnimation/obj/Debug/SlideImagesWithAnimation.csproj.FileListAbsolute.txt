@@ -1,0 +1,9 @@
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\bin\Debug\SlideImagesWithAnimation.exe.config
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\bin\Debug\SlideImagesWithAnimation.exe
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\bin\Debug\SlideImagesWithAnimation.pdb
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\obj\Debug\SlideImagesWithAnimation.csprojResolveAssemblyReference.cache
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\obj\Debug\SlideImagesWithAnimation.Form1.resources
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\obj\Debug\SlideImagesWithAnimation.Properties.Resources.resources
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\obj\Debug\SlideImagesWithAnimation.csproj.GenerateResource.Cache
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\obj\Debug\SlideImagesWithAnimation.exe
+D:\GitHub\SlideImagesWithAnimation\SlideImagesWithAnimation\obj\Debug\SlideImagesWithAnimation.pdb
